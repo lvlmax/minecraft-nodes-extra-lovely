@@ -25,7 +25,7 @@ dependencies {
 
     compileOnly("com.google.code.gson:gson:2.13.2")
 
-    paperweight.paperDevBundle("1.21.10-R0.1-SNAPSHOT")
+    paperweight.paperDevBundle("1.21.11-R0.1-SNAPSHOT")
 }
 
 tasks {
